@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bayon&family=Rubik:wght@600&display=swap');
+.imagen-prin {
+    background-image: url("/imagenes/Screenshot_2021-10-05\ Document.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 400px;
+}
+.imagen {
+    position: relative;
+    left: 1050px;
+    width: 762px;
+}
+.titulo {
+    position: absolute;
+    color: white;
+    letter-spacing: 5px;
+    font-size: 8em;
+    font-family:'Bayon', sans-serif;
+    left: 20px;
+    bottom: -10px;
+}
+
+.playl {
+    position: relative;
+    color: white;
+    letter-spacing: 8px;
+    font-weight: 500;
+    bottom: 340px;
+    left: 25px;
+}
+
+.copy, .by {
+    color: white;
+}
+.by {
+    position: relative;
+    letter-spacing: 3px;
+    font-weight: 400;
+    bottom: 230px;
+    left: 24px;
+}
+.playimg {
+    height: 50px;
+}
