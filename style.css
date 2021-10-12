@@ -43,3 +43,43 @@
 .playimg {
     height: 50px;
 }
+
+.tabla {
+    background-color: rgba(0, 0, 0, 0.555);
+    color: white;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 60%;
+    padding-left: 75px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+a {
+    color: white;
+}
+.titulos {
+    text-align: left;
+}
+body {
+    background-image: url("imagenes/1634067411875.jpg");
+}
+.texto1 {
+    text-decoration: none;
+}
+footer {
+    color: white;
+    text-align: center;
+    background-color: black;
+    background-attachment: fixed;
+    margin-top: 150px;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding: 5%;
+    border: black 100%;
+}
+
+.footer {
+}
