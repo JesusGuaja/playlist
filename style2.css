@@ -30,7 +30,7 @@
     left: 25px;
 }
 
-.copy, .by {
+.copy, .by{
     color: white;
 }
 .by {
@@ -57,9 +57,6 @@
     border-radius: 10px;
 }
 
-a {
-    color: white;
-}
 .titulos {
     text-align: left;
 }
@@ -84,4 +81,20 @@ footer {
 
 .jg {
     font-weight: 500;
+}
+
+main {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    position: relative;
+    letter-spacing: 2px;
+    bottom: 102px;
+    left: 86%;
 }
